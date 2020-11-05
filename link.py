@@ -46,6 +46,7 @@ def Start():
             print(f"{G}Link Opend Ip {R}=> {C}{ip} \n {G}Date {R}=> {time.ctime()}")
             url=f"http://ipinfo.io/{ip}?token=f5415d8ea228a0"
             req=r.get(url)
-            print(req.text)
+            text=req.text
+            print(f"{C}{text}{W}")
     files_test()
 Start()
