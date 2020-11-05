@@ -1,4 +1,4 @@
-# SMS-Bomber
+# Bad Link Creator
 A tool for creat bad link
 # MOHQ Security Team
 
