@@ -1,5 +1,5 @@
 # Bad Link Creator
-A tool for creat bad link
+A tool for create bad link
 # MOHQ Security Team
 
 ## Install and run
