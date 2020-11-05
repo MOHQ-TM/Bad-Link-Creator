@@ -1,0 +1,10 @@
+[Thu Nov  5 18:36:47 2020] PHP 7.4.11 Development Server (http://localhost:8080) started
+[Thu Nov  5 18:37:02 2020] 127.0.0.1:54990 Accepted
+[Thu Nov  5 18:37:02 2020] 127.0.0.1:54990 [302]: GET /
+[Thu Nov  5 18:37:02 2020] 127.0.0.1:54990 Closing
+[Thu Nov  5 18:37:03 2020] 127.0.0.1:54994 Accepted
+[Thu Nov  5 18:37:03 2020] 127.0.0.1:54994 [200]: GET /index.html
+[Thu Nov  5 18:37:03 2020] 127.0.0.1:54994 Closing
+[Thu Nov  5 18:37:05 2020] 127.0.0.1:55006 Accepted
+[Thu Nov  5 18:37:05 2020] 127.0.0.1:55006 [404]: GET /favicon.ico - No such file or directory
+[Thu Nov  5 18:37:05 2020] 127.0.0.1:55006 Closing
