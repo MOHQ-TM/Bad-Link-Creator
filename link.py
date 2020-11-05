@@ -47,6 +47,5 @@ def Start():
             url=f"http://ipinfo.io/{ip}?token=f5415d8ea228a0"
             req=r.get(url)
             print(req.text)
-    while 1:
-        files_test()
+    files_test()
 Start()
